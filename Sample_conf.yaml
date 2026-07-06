@@ -12,7 +12,7 @@ logger:
 # Enable Home Assistant API
 api:
   encryption:
-    key: "glXNdaZaLVlV8p2M0sYLNr+8BPt4zOU8HAhanEuRDCU="
+    key: "glXNdaZaLVlV8p2M0sYxxxxxxxx8HAhanEuRDCU="
 
 
 substitutions:
